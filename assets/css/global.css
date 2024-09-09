@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+  }
+
+.row {
+  width:100%; 
+  flex-direction:row; 
+  display: flex;
+}
+
+.col {
+  flex-direction:column;
+  display: flex;
+}
