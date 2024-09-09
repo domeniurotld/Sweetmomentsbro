@@ -90,7 +90,7 @@
         Vă invităm să descoperiți colecția noastră de delicii și să ne permiteți să facem parte din momentele voastre speciale! <br>
         Contactați-ne și haideți să transformăm împreună aceste momente în amintiri de neuitat. <br>
         <br>
-        &nbsp;&nbsp;&nbsp;• Adresa: <b>Strada Sweetmoments 74, Oras</b> <br>
+        &nbsp;&nbsp;&nbsp;• Adresa: <b>Str. Poiana Cotargasului, nr. 64, Brosteni, SUCEAVA, ROMANIA</b> <br>
         &nbsp;&nbsp;&nbsp;• Telefon: <b>+40 744 546 027</b> <br>
         &nbsp;&nbsp;&nbsp;• Email: <b>sweetmoments.bro@yahoo.com</b>
       </p>
